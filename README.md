@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hello World!
+
+I'm an economics PhD candidate at George Mason University, evaluating the performance of large language models (LLMs).
 
 <!--
 **jannalulu/jannalulu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
