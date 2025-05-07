@@ -1,6 +1,6 @@
 ## Hello!
 
-I'm an economics PhD candidate at George Mason University, evaluating the performance of large language models (LLMs) by asking them to forecast future events. I also work on attention-free models at FeatherlessAI, mostly running evaluations on new models.
+I'm an economics PhD candidate at George Mason University, evaluating the performance of LLMs by asking them to forecast future events. I also work on attention-free models at FeatherlessAI, running evaluations on new models.
 
 <!--
 **jannalulu/jannalulu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
